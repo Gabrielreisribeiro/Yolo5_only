@@ -12,7 +12,6 @@ path: ../datasets/coco  # dataset root dir
 train: ../datasets/coco/train.txt  # train images (relative to 'path') 118287 images
 val: ../datasets/coco/test.txt  # val images (relative to 'path') 5000 images
 test: 
-backup: ../datasets/coco/data
 
 # Classes
 nc: 36  # number of classes
